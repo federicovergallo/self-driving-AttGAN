@@ -1,7 +1,7 @@
 # self-driving-AttGAN
 - Unofficial Tensorflow implementation of [Attribute-Controlled Traffic Data Augmentation Using Conditional Generative Models](docs/attn-gan-data-aug.pdf)
 - University project [presentation (PDF)](docs/presentation.pdf). Explains the gist of the paper.
-- In collaboration with [Federico Vergallo](https://gitlab.com/fedever)
+- In collaboration with [Michal Ostyk](https://gitlab.com/ostyk)
 
 ## Prerequisites
 * Python 3.6
